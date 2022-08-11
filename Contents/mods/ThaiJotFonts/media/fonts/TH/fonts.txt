@@ -32,8 +32,8 @@ font Intro
 
 font Handwritten
 {
-	fnt = handwrittenThai.fnt,
-	img = handwrittenThai_0.png,
+	fnt = handwritten.fnt,
+	img = handwritten_0.png,
 }
 
 font MainMenu1
@@ -56,43 +56,43 @@ font Massive
 
 font NewSmall
 {
-	fnt = zomboidSmallThai.fnt,
-	img = zomboidSmallThai_0.png,
+	fnt = zomboidSmall.fnt,
+	img = zomboidSmall_0.png,
 }
 
 font NewMedium
 {
-	fnt = zomboidMediumThai.fnt,
-	img = zomboidMediumThai_0.png,
+	fnt = zomboidMedium.fnt,
+	img = zomboidMedium_0.png,
 }
 
 font NewLarge
 {
-	fnt = zomboidLargeThai.fnt,
-	img = zomboidLargeThai_0.png,
+	fnt = zomboidLarge.fnt,
+	img = zomboidLarge_0.png,
 }
 
 font Small
 {
-	fnt = zomboidSmallThai.fnt,
-	img = zomboidSmallThai_0.png,
+	fnt = zomboidSmall.fnt,
+	img = zomboidSmall_0.png,
 }
 
 font Medium
 {
-	fnt = zomboidMediumThai.fnt,
-	img = zomboidMediumThai_0.png,
+	fnt = zomboidMedium.fnt,
+	img = zomboidMedium_0.png,
 }
 
 font Large
 {
-	fnt = zomboidLargeThai.fnt,
-	img = zomboidLargeThai_0.png,
+	fnt = zomboidLarge.fnt,
+	img = zomboidLarge_0.png,
 }
 
 font Title
 {
-	fnt = zomboidLargeThai.fnt,
-	img = zomboidLargeThai_0.png,
+	fnt = zombiefontcredits2.fnt,
+	img = zombiefontcredits2_0.png,
 }
 

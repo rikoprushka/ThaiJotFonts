@@ -1,9 +1,6 @@
-name=ThaiJotFonts ฟอนต์ลายมือภาษาไทย
+name=BoonJot UI Font
 id=ThaiJotFonts
-description=[h1]ฟอนต์ทางเลือกลายมือภาษาไทย[/h1]
-ม็อดนี้ใช้ฟอนต์จาก [url=https://fontuni.com/] FontUni [/url]
-[i]
-ฟอนต์บุญจด ใช้สัญญาอนุญาต (license) แบบ SIL Open Font License v1.1
-ฟอนต์บุญถึก ใช้สัญญาอนุญาต (license) แบบ SIL Open Font License v1.1[/i]
+description=BoonJot UI Font
+description=SIL Open Font License v1.1
 poster=preview.png
 icon=icon.png
