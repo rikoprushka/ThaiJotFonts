@@ -1,6 +1,7 @@
 version=1
 id=2823642146
-title=ฟอนต์ลายมือภาษาไทย
-description=ฟอนต์ทางเลือกลายมือภาษาไทย
+title=BoonJot UI Font
+description=BoonJot UI Font
+description=SIL Open Font License v1.1
 tags=Build 41;Interface;Language/Translation
 visibility=public
